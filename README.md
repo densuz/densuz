@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: Advanced features of the Laravel Framework, QBCore Framework, and Lua scripting for game servers.
 - 💞️ I’m looking to collaborate on: Game development projects, server customization, or creative web application ideas.
 - 📫 How to reach me: -
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy experimenting with game mods, creating intricate in-game systems, and sometimes immersing myself in a bit of acting and voiceover work!
 
 <!---
