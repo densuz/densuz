@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @densuz
 - 👀 I’m interested in: Developing innovative systems for games and web applications, especially those involving unique mechanics and integrations.
 - 🌱 I’m currently learning: Advanced features of the Laravel Framework, QBCore Framework, and Lua scripting for game servers.
-- 💞️ I’m looking to collaborate on: Game development projects, server customization, or creative web application ideas.
+- 💞️ I’m looking to collaborate on: Web development projects, server customization fivem, or creative web application ideas.
 - 📫 How to reach me: -
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy experimenting with game mods, creating intricate in-game systems, and sometimes immersing myself in a bit of acting and voiceover work!
