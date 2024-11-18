@@ -23,4 +23,5 @@ You can click the Preview link to take a look at your changes.
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-![Alt Text](https://github.com/jhcpeixoto/jhcpeixoto/blob/output/github-contribution-grid-snake.svg)
+![[Alt Text]](https://github.com/densuz/snk/raw/output/snake.svg)
+
